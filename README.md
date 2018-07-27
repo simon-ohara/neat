@@ -1,3 +1,5 @@
+🦄
+
 [<img src="http://images.thoughtbot.com/bourbon/neat-logo-v2.svg" width="200" alt="Neat logo">][Neat]
 
 ## A lightweight and flexible Sass grid
@@ -125,7 +127,7 @@ use out of the box and flexible enough to customize down the road.
    @import "neat";
    ```
 
-    **Pro Tip:** Check out this [example gulp project][gulp-example] that 
+    **Pro Tip:** Check out this [example gulp project][gulp-example] that
     uses Bourbon and Neat.
 
 [gulp-example]: https://github.com/thoughtbot/gulp-bourbon-neat-example
